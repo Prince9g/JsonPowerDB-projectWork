@@ -76,12 +76,7 @@
 <h2 id="project-status">Project Status:</h2>
 <p><strong>Completed</strong> - The Student Enrollment Form is fully functional with the JsonPowerDB integration. Future updates might include more fields or advanced search and filter options.</p>
 
-<h2 id="illustrations">Illustrations:</h2>
-<p><img src="#" alt="Project Image 1">  
-> Image showing the form interface with data entry fields and buttons.</p>
-
-<p><img src="https://drive.google.com/file/d/1hVxx1WBT8WtNDHe4wzejPaE3LKDHaAMz/view?usp=sharing" alt="Project Image 2">  
-> Screenshot after saving a student's information in JsonPowerDB.</p>
+<a href="https://prince9g.github.io/JsonPowerDB-projectWork/">WEBSITE LIVE VIEW</a>
 
 <h2 id="sources">Sources:</h2>
 <ul>
